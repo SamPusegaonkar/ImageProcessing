@@ -14,7 +14,7 @@ A list of all the programs is given below.
 - Slicing with background - grey_bg.c
 - Slicing without background - grey_wo_bg.c
 - Histogram equalization - hist.c & hist_graph.cpp
-- Edge Detection -prewitt.c & sobel.c
+- Edge Detection - prewitt.c & sobel.c
 - Low pass & high pass - smooth.c & sharpen.c
 <br/>
 
@@ -36,7 +36,7 @@ A text file will be generated in the programs folder.<br>
 Now run the hist_graph.cpp<br>
 This is a c++ file. It needs the graphics.h and conio.h library.<br>
 
-**Few tips**
+**Few tips**<br>
 A few input images are already present in this repo.<br>
 Although if you want to use your images, make sure they are greyscale images.<br>
 You can check this by using the linux command 'identify' command.<br>
@@ -44,7 +44,7 @@ You can check this by using the linux command 'identify' command.<br>
 For example<br>
 `identify input_image.jpeg`
 
-Programs by:
+Programs by:<br>
 Sameer <br>
 Piyush <br>
 Aayush <br>
