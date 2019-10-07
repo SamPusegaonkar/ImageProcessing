@@ -6,7 +6,7 @@ Basic image processing programs in C
 **The above code is written in C/C++ Language.**
 
 **Description**: This repo consists of basic image processing programs.
-A list for all the programs is given below.
+A list of all the programs is given below.
 - Negative of an image- negative.c 
 - Thresholding -threshold.c
 - Contrast Stretching - contrast.c
