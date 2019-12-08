@@ -1,8 +1,6 @@
 # ImageProcessing
 Basic image processing programs in C
 
-# Basic Image Processing Operations in C.
-
 **The above code is written in C/C++ Language.**
 
 **Description**: This repo consists of basic image processing programs.
